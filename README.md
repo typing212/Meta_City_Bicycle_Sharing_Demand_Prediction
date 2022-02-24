@@ -12,4 +12,12 @@ Lasso linear regression is able to predict numeric demand quantity given geograp
 
 In the demand level prediction model, we convert a numerical prediction problem into a classification problem to extend its business application. We help bike sharing company to predict the demand level of any potential area that might be the new market way earlier than they begin to invest into the market. Demand level forecasting contributes a lot in business decision making in topics of market entry strategy, operation strategy, marketing activities, etc.
 
-## Collaborator
+## Collaborators
+
+Ke Ma
+
+Mingzhe Xu
+
+Nanhai Zhong
+
+Xiao Liang
