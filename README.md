@@ -4,7 +4,7 @@ Machine Learning Project - use clustering, demand prediciton model, and demand l
 ## Techniques
 K-medians, LASSO, Random Forest, Cross Validation, Benefit-cost Matrix
 
-## Context
+## Content
 First, we use clustering to divide the city into different management areas according to the location-related features and then evaluate the demand level of each new region. Then, build demand prediction models and demand level prediction models to find out the relationship between the demand and other features. Moreover, we established a benefit-cost matrix with domain knowledge and calculate the expected value to find the most profitable model.
 
 ## Dataset
