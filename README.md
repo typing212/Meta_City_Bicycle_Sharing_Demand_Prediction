@@ -10,6 +10,8 @@ The original data set is a nine-day data set of shared bicycles in a certain cit
 ## Insights
 Lasso linear regression is able to predict numeric demand quantity given geographical characteristics and hour. Though this is still a rough prediction model, it can be deployed in company’s dispatching system. The dispatching system, theoretically, integrated the data we predicted for next day with number of bikes remained in each area after peak hour and decide dispatch strategy. To furtherly solve the problem, it might need to introduce linear programming methods, e.g., Multi-Location Newsvendor Problem. 
 
+![image](https://user-images.githubusercontent.com/92670749/155497746-e1005a3f-a195-4955-a762-353aaf72884e.png)
+
 In the demand level prediction model, we convert a numerical prediction problem into a classification problem to extend its business application. We help bike sharing company to predict the demand level of any potential area that might be the new market way earlier than they begin to invest into the market. Demand level forecasting contributes a lot in business decision making in topics of market entry strategy, operation strategy, marketing activities, etc.
 
 ## Collaborators
